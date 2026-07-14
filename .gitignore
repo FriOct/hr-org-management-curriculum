@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# 개인 노트 초안 (원한다면 이 주석을 지우고 draft/ 폴더를 커밋에 포함하세요)
+draft/
