@@ -2,6 +2,10 @@
 
 > 컴퓨터공학 전공자가 MIT / Stanford / Wharton / Michigan / Harvard의 공개 강의와 국내 KOCW 강의를 엮어서, 실제로 경영대학 "인사조직" 트랙에 다니는 것처럼 스스로 짜본 4학기 커리큘럼입니다.
 
+### 📚 [학습 사이트 바로가기 →](https://frioct.github.io/hr-org-management-curriculum/)
+
+진도 체크리스트, 학기별 주차 계획, 용어 플래시카드·퀴즈를 한 곳에서 쓸 수 있습니다. (진도는 브라우저에 저장됩니다. 마크다운을 고친 뒤에는 `node scripts/build-site.mjs`로 사이트 데이터를 다시 만들어 주세요.)
+
 ---
 
 ## 0. 이 레포는 왜 존재하는가
